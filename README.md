@@ -1,7 +1,7 @@
 Sentimant Analysis based on:
 
-**1-CNN Algorithm
+**1-CNN Algorithm**
 
-2-CNN+BiLSTM
+**2-CNN+BiLSTM**
 
-3-BiLSTM**
+**3-BiLSTM**
